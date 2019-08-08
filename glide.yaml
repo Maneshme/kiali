@@ -37,4 +37,5 @@ import:
 - package: github.com/jtblin/go-ldap-client
 ￼ version: v0.0.3
 - package: gopkg.in/ldap.v2
-￼ version: v3.0.3
+ version: v3.0.3
+ 
